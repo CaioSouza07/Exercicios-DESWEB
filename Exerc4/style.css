@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+#links{
+    color: yellow;
+    display: block;
+}
+#links:hover{
+    background-color: red;
+}
+#container{
+    text-align: center;
+}
