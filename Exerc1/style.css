@@ -1,0 +1,13 @@
+body{
+    padding: 4vh;
+}
+
+header{
+    background-color: rgb(59, 59, 255);
+}
+footer{
+    background-color: gray;
+}
+#elementos{
+    height: 3.5vh;
+}
