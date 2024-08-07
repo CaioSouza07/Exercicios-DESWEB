@@ -1,0 +1,18 @@
+body{
+    padding: 4vh;
+}
+
+#container{
+    text-align: center;
+    gap: 2vh;
+}
+
+img{
+    width: 60%;
+}
+
+footer{
+    font-weight: 500;
+    font-size: 50px;
+    margin: 20px;
+}
