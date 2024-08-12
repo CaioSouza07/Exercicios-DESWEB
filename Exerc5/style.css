@@ -1,0 +1,16 @@
+body{
+    margin: 3vmax;
+}
+
+ul{
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+    font-size: larger;
+}
