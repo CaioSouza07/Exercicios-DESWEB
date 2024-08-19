@@ -1,0 +1,12 @@
+#container{
+    text-align:center;
+}
+
+#butao{
+    background-color: green;
+    width: 6vh;
+}
+
+#texto{
+    border: solid 2px black;
+}
