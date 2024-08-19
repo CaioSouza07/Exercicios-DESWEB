@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+#cx1{
+    border: solid black 5px;
+    background-color: red;
+}
+
+#cx2{
+    border: solid black 5px;
+    background-color: blue;
+}
+
+#cx3{
+    border: solid black 5px;
+    background-color: green;
+}
